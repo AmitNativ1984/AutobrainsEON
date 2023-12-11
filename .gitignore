@@ -1,3 +1,3 @@
 .vscode/
-task_1/*/*.png
-task_2/*/*.png
+task_1/clusters/*
+task_2/clusters/*
